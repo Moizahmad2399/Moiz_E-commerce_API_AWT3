@@ -1,3 +1,20 @@
+<img width="902" height="112" alt="image" src="https://github.com/user-attachments/assets/5875f96c-aa65-4c6c-ad82-f8411a9921a0" />
+
+<img width="937" height="285" alt="image" src="https://github.com/user-attachments/assets/249c72ac-ac47-467b-bb4f-9a7626c9d92f" />
+
+<img width="957" height="197" alt="image" src="https://github.com/user-attachments/assets/0d6b95fe-93d5-4700-a889-d4645246063b" />
+
+<img width="905" height="290" alt="image" src="https://github.com/user-attachments/assets/62df3149-c634-4e72-b01c-6ea51633bb53" />
+
+<img width="947" height="386" alt="image" src="https://github.com/user-attachments/assets/0ea48800-85b1-495b-b756-9b938cca83fa" />
+
+<img width="792" height="817" alt="image" src="https://github.com/user-attachments/assets/c9d8dff9-7de3-4f23-b198-cfde801096b5" />
+
+<img width="1601" height="696" alt="image" src="https://github.com/user-attachments/assets/599bc456-5702-4865-ac43-4c676212a3b5" />
+
+
+
+
 # E-Commerce Product API
 
 A local Node.js/Express REST API for a product catalog, built to demonstrate proper RESTful design, idempotent operations, standardized error responses, and a GraphQL endpoint that solves REST's over-fetching problem.
